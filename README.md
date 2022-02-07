@@ -13,13 +13,14 @@ pacgommes.
 
 Couleur   Points  Effet
 
-Bleu       100      −
+Bleu-100      −
 
-Violet     300      Le pacman devient invisible pour les fantômes. Sa couleur devient jaune pâle.
+Violet-300-Le pacman devient invisible pour les fantômes. Sa couleur devient jaune pâle.
 
-Orange     500      Le pacman devient un superpacman, sa couleur est alors orange et les fantômes deviennent alors bleus.
+Orange-500-Le pacman devient un superpacman, sa couleur est alors orange et les fantômes deviennent alors bleus.
 
-Vert       1000     Modifie la structure du labyrinthe
+Vert-1000-Modifie la structure du labyrinthe
+
 
 
 A cela on rajoute les règles suivantes :
