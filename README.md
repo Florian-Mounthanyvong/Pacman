@@ -10,18 +10,19 @@ Le personnage peut emprunter des passages situés de chaque côté de l’écran
 le faisant réapparaître de l’autre côté du labyrinthe. Le tableau suivant indiques les différents points et effets des
 pacgommes.
 
-Couleur Points Effet
+Couleur   Points   Effet
 
-Bleu     100     −
+Bleu       100       −
 
-Violet   300    Le pacman devient invisible pour les fantômes. Sa couleur devient jaune pâle.
+Violet     300      Le pacman devient invisible pour les fantômes. Sa couleur devient jaune pâle.
 
-Orange   500    Le pacman devient un superpacman, sa couleur est alors orange et les fantômes deviennent alors bleus.
+Orange     500      Le pacman devient un superpacman, sa couleur est alors orange et les fantômes deviennent alors bleus.
 
-Vert     1000   Modifie la structure du labyrinthe
+Vert       1000     Modifie la structure du labyrinthe
 
 
 A cela on rajoute les règles suivantes :
+
 — Initialement il a trois vies.
 
 — Si le joueur dépasse les 5000 points, il obtient une vie supplémentaire.
@@ -36,6 +37,7 @@ deux fois plus lentement et ils reviennent au centre du labyrinthe s’ils sont 
 
 — Le jeu se termine quand il n’y a plus de pacgommes et la partie est gagnée, ou quand le pacman a perdu
 toutes ses vies et la partie est perdue.
+
 
 Le non respect des règles ci-dessous sera considéré comme une erreur grave et entrainera un
 malus allant de 5 à 10 points:
