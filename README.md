@@ -10,9 +10,10 @@ Le personnage peut emprunter des passages situés de chaque côté de l’écran
 le faisant réapparaître de l’autre côté du labyrinthe. Le tableau suivant indiques les différents points et effets des
 pacgommes.
 
-Couleur   Points   Effet
 
-Bleu       100       −
+Couleur   Points  Effet
+
+Bleu       100      −
 
 Violet     300      Le pacman devient invisible pour les fantômes. Sa couleur devient jaune pâle.
 
